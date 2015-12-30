@@ -24,14 +24,14 @@
 3.  在 device menu 中选中你的手机，然后点击“Play”的三角形按钮  
 
 ## 具体效果
-见图
-i()[http://ww2.sinaimg.cn/large/a243ad6cjw1ezhtlq0i88j20gg0re41f.jpg]
-i()[http://ww2.sinaimg.cn/large/a243ad6cjw1ezhtlssu18j20gg0ren09.jpg]
-i()[http://ww4.sinaimg.cn/large/a243ad6cjw1ezhtlvdd3qj20gg0rewh1.jpg]
-i()[http://ww1.sinaimg.cn/large/a243ad6cjw1ezhtlxsbj2j20gg0reabb.jpg]
-i()[http://ww4.sinaimg.cn/large/a243ad6cjw1ezhtm45pjtj20gg0rejuw.jpg]
-i()[http://ww2.sinaimg.cn/large/a243ad6cjw1ezhtm6hm59j20gg0ret9j.jpg]
-i()[http://ww1.sinaimg.cn/large/a243ad6cjw1ezhtm8e77vj20gg0regn1.jpg]
-i()[http://ww1.sinaimg.cn/large/a243ad6cjw1ezhtmaw182j20gg0rewfx.jpg]
-i()[http://ww4.sinaimg.cn/large/a243ad6cjw1ezhtmdo2ocj20gg0reacd.jpg]
-i()[http://ww1.sinaimg.cn/large/a243ad6cjw1ezhtmgnfraj20gg0redhd.jpg]
+见图  
+i()[http://ww2.sinaimg.cn/large/a243ad6cjw1ezhtlq0i88j20gg0re41f.jpg]  
+i()[http://ww2.sinaimg.cn/large/a243ad6cjw1ezhtlssu18j20gg0ren09.jpg]  
+i()[http://ww4.sinaimg.cn/large/a243ad6cjw1ezhtlvdd3qj20gg0rewh1.jpg]  
+i()[http://ww1.sinaimg.cn/large/a243ad6cjw1ezhtlxsbj2j20gg0reabb.jpg]  
+i()[http://ww4.sinaimg.cn/large/a243ad6cjw1ezhtm45pjtj20gg0rejuw.jpg]  
+i()[http://ww2.sinaimg.cn/large/a243ad6cjw1ezhtm6hm59j20gg0ret9j.jpg]  
+i()[http://ww1.sinaimg.cn/large/a243ad6cjw1ezhtm8e77vj20gg0regn1.jpg]  
+i()[http://ww1.sinaimg.cn/large/a243ad6cjw1ezhtmaw182j20gg0rewfx.jpg]  
+i()[http://ww4.sinaimg.cn/large/a243ad6cjw1ezhtmdo2ocj20gg0reacd.jpg]  
+i()[http://ww1.sinaimg.cn/large/a243ad6cjw1ezhtmgnfraj20gg0redhd.jpg]  
