@@ -26,7 +26,7 @@
 ## 具体效果
 见图  
 i[](http://ww2.sinaimg.cn/large/a243ad6cjw1ezhtlq0i88j20gg0re41f.jpg)  
-i[](http://ww2.sinaimg.cn/large/a243ad6cjw1ezhtlssu18j20gg0ren09.jpg) 
+i[](http://ww2.sinaimg.cn/large/a243ad6cjw1ezhtlssu18j20gg0ren09.jpg)  
 i[](http://ww4.sinaimg.cn/large/a243ad6cjw1ezhtlvdd3qj20gg0rewh1.jpg)  
 i[](http://ww1.sinaimg.cn/large/a243ad6cjw1ezhtlxsbj2j20gg0reabb.jpg)  
 i[](http://ww4.sinaimg.cn/large/a243ad6cjw1ezhtm45pjtj20gg0rejuw.jpg)  
