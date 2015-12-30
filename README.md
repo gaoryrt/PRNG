@@ -1,3 +1,7 @@
+# *非特殊情况不再更新*  
+这是当时比赛的作品  
+要是有需求的话会继续跟进  
+在此之前非特殊情况不会更新  
 ![](http://ww1.sinaimg.cn/large/a243ad6cjw1ezhszdvg72j21hc0u075n.jpg)
 # PRNG - Pseudo Random Number Generator
 ## 简介
@@ -24,6 +28,7 @@
 3.  在 device menu 中选中你的手机，然后点击“Play”的三角形按钮  
 
 ## 具体效果
+**下面多图预警**  
 见图  
 ![](http://ww2.sinaimg.cn/large/a243ad6cjw1ezhtlq0i88j20gg0re41f.jpg)
 ![](http://ww2.sinaimg.cn/large/a243ad6cjw1ezhtlssu18j20gg0ren09.jpg)
